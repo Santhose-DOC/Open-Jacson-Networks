@@ -71,7 +71,8 @@ if mu1>lam and mu2>lam and mu3>lam:
 
 ## Output
 
-![Alt Text](Open-Jacson-Networks/image.png)
+<img width="426" height="314" alt="Screenshot 2026-05-24 130352" src="https://github.com/user-attachments/assets/c6ea6993-e490-4f75-9819-b02d75091d8c" />
+
 
 ## Result
 The arrival rate, service rates, average number of objects in each system, average number of objects in each conveyor, and average waiting time in the system are calculated successfully using Python.
